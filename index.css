@@ -42,7 +42,7 @@ li[aria-checked="true"] {
 }
 
 #completed-message {
-  visibility: hidden;
+  display: none;
 }
 
 button {
